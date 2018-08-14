@@ -8,8 +8,11 @@
 * JL_MatchDay_Parser.py
 * ["year_", "category_", "section_", "date_", "time_", "hometeam_", "score_", "awayteam_", "stadium_", "visitors_", "broadcast_"]
 
-## To request
+## Parse the Player(play a part in 2018) List from Jdatasite and output csv(J1/J2/J3)
+* JL_Player_Parser.py
+* ["name_", "category_", "team_", "birthdate_"]
 
+## To request
 * pytnon3.5 upper
 * urllib.request
 * BeautifulSoup
